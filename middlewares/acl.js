@@ -17,4 +17,4 @@ function acl(capability) {
 
 
 
-module.exports = { acl };
+module.exports = {acl};
